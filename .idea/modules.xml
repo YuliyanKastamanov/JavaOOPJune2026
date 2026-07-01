@@ -3,7 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaOOPJune2026.iml" filepath="$PROJECT_DIR$/JavaOOPJune2026.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P01_OpinionPoll/P01_OpinionPoll.iml" filepath="$PROJECT_DIR$/P01_OpinionPoll/P01_OpinionPoll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/L01_DefiningClasses.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/L01_DefiningClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P01_OpinionPoll/P01_OpinionPoll.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P01_OpinionPoll/P01_OpinionPoll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P02_CompanyRoster/P02_CompanyRoster.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P02_CompanyRoster/P02_CompanyRoster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P03_SpeedRacing/P03_SpeedRacing.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P03_SpeedRacing/P03_SpeedRacing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P04_RawData/P04_RawData.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P04_RawData/P04_RawData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P05_CarSalesman/P05_CarSalesman.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P05_CarSalesman/P05_CarSalesman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P06_PokemonTrainer/P06_PokemonTrainer.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P06_PokemonTrainer/P06_PokemonTrainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P07_Google/P07_Google.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P07_Google/P07_Google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P08_FamilyTree/P08_FamilyTree.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P08_FamilyTree/P08_FamilyTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P09_CatLady/P09_CatLady.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P09_CatLady/P09_CatLady.iml" />
     </modules>
   </component>
 </project>
