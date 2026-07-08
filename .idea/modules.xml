@@ -4,11 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaOOPJune2026.iml" filepath="$PROJECT_DIR$/JavaOOPJune2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/L01_DefiningClasses.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/L01_DefiningClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/L02_WorkingWithAbstraction.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/L02_WorkingWithAbstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P01_CardSuit/P01_CardSuit.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P01_CardSuit/P01_CardSuit.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P01_OpinionPoll/P01_OpinionPoll.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P01_OpinionPoll/P01_OpinionPoll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P02_CardRank/P02_CardRank.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P02_CardRank/P02_CardRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P02_CompanyRoster/P02_CompanyRoster.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P02_CompanyRoster/P02_CompanyRoster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P03_CardsWithPower/P03_CardsWithPower.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P03_CardsWithPower/P03_CardsWithPower.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P03_SpeedRacing/P03_SpeedRacing.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P03_SpeedRacing/P03_SpeedRacing.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P04_RawData/P04_RawData.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P04_RawData/P04_RawData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P04_TrafficLights/P04_TrafficLights.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P04_TrafficLights/P04_TrafficLights.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P05_CarSalesman/P05_CarSalesman.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P05_CarSalesman/P05_CarSalesman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P05_JediGalaxyRefactored/P05_JediGalaxyRefactored.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P05_JediGalaxyRefactored/P05_JediGalaxyRefactored.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P06_PokemonTrainer/P06_PokemonTrainer.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P06_PokemonTrainer/P06_PokemonTrainer.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P07_Google/P07_Google.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P07_Google/P07_Google.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P08_FamilyTree/P08_FamilyTree.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P08_FamilyTree/P08_FamilyTree.iml" />
