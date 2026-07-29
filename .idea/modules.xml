@@ -7,18 +7,23 @@
       <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/L02_WorkingWithAbstraction.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/L02_WorkingWithAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/L03_Encapsulation/L03_Encapsulation.iml" filepath="$PROJECT_DIR$/L03_Encapsulation/L03_Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04_Inheritance/L04_Inheritance.iml" filepath="$PROJECT_DIR$/L04_Inheritance/L04_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndAbstraction/L05_InterfacesAndAbstraction.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndAbstraction/L05_InterfacesAndAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P01_CardSuit/P01_CardSuit.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P01_CardSuit/P01_CardSuit.iml" />
       <module fileurl="file://$PROJECT_DIR$/L03_Encapsulation/P01_ClassBoxDataValidation/P01_ClassBoxDataValidation.iml" filepath="$PROJECT_DIR$/L03_Encapsulation/P01_ClassBoxDataValidation/P01_ClassBoxDataValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndAbstraction/P01_DefineInterfacePerson/P01_DefineInterfacePerson.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndAbstraction/P01_DefineInterfacePerson/P01_DefineInterfacePerson.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P01_OpinionPoll/P01_OpinionPoll.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P01_OpinionPoll/P01_OpinionPoll.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04_Inheritance/P01_Person/P01_Person.iml" filepath="$PROJECT_DIR$/L04_Inheritance/P01_Person/P01_Person.iml" />
       <module fileurl="file://$PROJECT_DIR$/L03_Encapsulation/P02_AnimalFarm/P02_AnimalFarm.iml" filepath="$PROJECT_DIR$/L03_Encapsulation/P02_AnimalFarm/P02_AnimalFarm.iml" />
       <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P02_CardRank/P02_CardRank.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P02_CardRank/P02_CardRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P02_CompanyRoster/P02_CompanyRoster.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P02_CompanyRoster/P02_CompanyRoster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndAbstraction/P02_MultipleImplementation/P02_MultipleImplementation.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndAbstraction/P02_MultipleImplementation/P02_MultipleImplementation.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04_Inheritance/P02_Zoo/P02_Zoo.iml" filepath="$PROJECT_DIR$/L04_Inheritance/P02_Zoo/P02_Zoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndAbstraction/P03_BirthdayCelebrations/P03_BirthdayCelebrations.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndAbstraction/P03_BirthdayCelebrations/P03_BirthdayCelebrations.iml" />
       <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P03_CardsWithPower/P03_CardsWithPower.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P03_CardsWithPower/P03_CardsWithPower.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04_Inheritance/P03_PlayersAndMonsters/P03_PlayersAndMonsters.iml" filepath="$PROJECT_DIR$/L04_Inheritance/P03_PlayersAndMonsters/P03_PlayersAndMonsters.iml" />
       <module fileurl="file://$PROJECT_DIR$/L03_Encapsulation/P03_ShoppingSpree/P03_ShoppingSpree.iml" filepath="$PROJECT_DIR$/L03_Encapsulation/P03_ShoppingSpree/P03_ShoppingSpree.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P03_SpeedRacing/P03_SpeedRacing.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P03_SpeedRacing/P03_SpeedRacing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndAbstraction/P04_FoodShortage/P04_FoodShortage.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndAbstraction/P04_FoodShortage/P04_FoodShortage.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04_Inheritance/P04_NeedForSpeed/P04_NeedForSpeed.iml" filepath="$PROJECT_DIR$/L04_Inheritance/P04_NeedForSpeed/P04_NeedForSpeed.iml" />
       <module fileurl="file://$PROJECT_DIR$/L03_Encapsulation/P04_PizzaCalories/P04_PizzaCalories.iml" filepath="$PROJECT_DIR$/L03_Encapsulation/P04_PizzaCalories/P04_PizzaCalories.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P04_RawData/P04_RawData.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P04_RawData/P04_RawData.iml" />
@@ -27,8 +32,11 @@
       <module fileurl="file://$PROJECT_DIR$/L03_Encapsulation/P05_FootballTeamGenerator/P05_FootballTeamGenerator.iml" filepath="$PROJECT_DIR$/L03_Encapsulation/P05_FootballTeamGenerator/P05_FootballTeamGenerator.iml" />
       <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/P05_JediGalaxyRefactored/P05_JediGalaxyRefactored.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/P05_JediGalaxyRefactored/P05_JediGalaxyRefactored.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04_Inheritance/P05_Restaurant/P05_Restaurant.iml" filepath="$PROJECT_DIR$/L04_Inheritance/P05_Restaurant/P05_Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndAbstraction/P05_Telephony/P05_Telephony.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndAbstraction/P05_Telephony/P05_Telephony.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04_Inheritance/P06_Animals/P06_Animals.iml" filepath="$PROJECT_DIR$/L04_Inheritance/P06_Animals/P06_Animals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndAbstraction/P06_Military/P06_Military.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndAbstraction/P06_Military/P06_Military.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P06_PokemonTrainer/P06_PokemonTrainer.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P06_PokemonTrainer/P06_PokemonTrainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_InterfacesAndAbstraction/P07_CollectionHierarchy/P07_CollectionHierarchy.iml" filepath="$PROJECT_DIR$/L05_InterfacesAndAbstraction/P07_CollectionHierarchy/P07_CollectionHierarchy.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P07_Google/P07_Google.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P07_Google/P07_Google.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P08_FamilyTree/P08_FamilyTree.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P08_FamilyTree/P08_FamilyTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/P09_CatLady/P09_CatLady.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/P09_CatLady/P09_CatLady.iml" />
