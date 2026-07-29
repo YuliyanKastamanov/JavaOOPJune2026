@@ -1,31 +1,31 @@
-package Military;
+package military_06;
 
 public abstract class SpecialisedSoldierImpl extends PrivateImpl implements SpecialisedSoldier {
-
-    private Corps corps;
+    private static final String AIRFORCES = "Airforces";
+    private static final String MARINES = "Marines";
+    private String corps;
 
     public SpecialisedSoldierImpl(int id, String firstName, String lastName, double salary, String corps) {
         super(id, firstName, lastName, salary);
-        setCorps(corps);
-    }
-
-    public void setCorps(String corps) {
-        if(corps.equals("Airforces") || corps.equals("Marines")){
-            this.corps = Corps.valueOf(corps);
-        }
+        this.setCorps(corps);
     }
 
     @Override
     public String getCorps() {
-        return corps.name();
+        return this.corps;
     }
 
     @Override
     public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append(super.toString()).append(System.lineSeparator());
+        sb.append(String.format("Corps: %s",this.getCorps()));
+        return sb.toString();
+    }
 
-        StringBuilder builder = new StringBuilder();
-        builder.append(super.toString()).append(System.lineSeparator());
-        builder.append(String.format("Corps: %s", this.getCorps()));
-        return builder.toString();
+    private void setCorps(String corps) {
+        if (MARINES.equals(corps) || AIRFORCES.equals(corps)) {
+            this.corps = corps;
+        }
     }
 }

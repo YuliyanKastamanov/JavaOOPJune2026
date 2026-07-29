@@ -1,8 +1,6 @@
-package Military;
+package military_06;
 
-public abstract class SoldierImpl implements Soldier{
-
-
+public abstract class SoldierImpl implements Soldier {
     private int id;
     private String firstName;
     private String lastName;
@@ -13,22 +11,21 @@ public abstract class SoldierImpl implements Soldier{
         this.lastName = lastName;
     }
 
+    @Override
     public int getId() {
-        return id;
+        return this.id;
     }
-
     @Override
     public String getFirstName() {
-        return firstName;
+        return this.firstName;
     }
-
     @Override
     public String getLastName() {
-        return lastName;
+        return this.lastName;
     }
 
     @Override
     public String toString() {
-        return String.format("Name: %s %s Id: %d", firstName, lastName, id);
+        return String.format("Name: %s %s Id: %d",this.getFirstName(), this.getLastName(), this.getId());
     }
 }

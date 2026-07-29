@@ -1,6 +1,5 @@
-package Military;
+package military_06;
 
-public interface Private {
-
+public interface Private extends Soldier {
     double getSalary();
 }
