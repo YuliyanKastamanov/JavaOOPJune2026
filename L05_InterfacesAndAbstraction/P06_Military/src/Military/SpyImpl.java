@@ -1,5 +1,5 @@
-package military_06;
 
+package Military;
 public class SpyImpl extends SoldierImpl implements Spy {
     private int codeNumber;
 

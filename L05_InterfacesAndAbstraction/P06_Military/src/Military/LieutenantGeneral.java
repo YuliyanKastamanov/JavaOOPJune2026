@@ -1,5 +1,5 @@
-package military_06;
 
+package Military;
 import java.util.Collection;
 
 public interface LieutenantGeneral {

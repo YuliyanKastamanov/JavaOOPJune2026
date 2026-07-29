@@ -1,5 +1,5 @@
-package military_06;
 
+package Military;
 public abstract class SoldierImpl implements Soldier {
     private int id;
     private String firstName;

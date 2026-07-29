@@ -1,5 +1,4 @@
-package military_06;
-
+package Military;
 import java.util.ArrayList;
 import java.util.Collection;
 

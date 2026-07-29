@@ -1,5 +1,5 @@
-package military_06;
 
+package Military;
 public interface Soldier {
     int getId();
 

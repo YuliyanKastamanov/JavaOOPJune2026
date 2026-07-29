@@ -1,4 +1,4 @@
-package military_06;
+package Military;
 
 public class RepairImpl implements Repair {
     private String partName;

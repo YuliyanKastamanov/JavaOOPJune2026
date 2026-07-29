@@ -1,4 +1,4 @@
-package military_06;
+package Military;
 
 public interface Mission {
     String getCodeName();

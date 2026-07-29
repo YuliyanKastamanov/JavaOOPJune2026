@@ -1,4 +1,4 @@
-package military_06;
+package Military;
 
 public class MissionImpl implements Mission {
     private static final String MISSION_FINISHED_STATUS = "finished";

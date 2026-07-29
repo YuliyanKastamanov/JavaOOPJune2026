@@ -1,5 +1,4 @@
-package military_06;
-
+package Military;
 public abstract class SpecialisedSoldierImpl extends PrivateImpl implements SpecialisedSoldier {
     private static final String AIRFORCES = "Airforces";
     private static final String MARINES = "Marines";
