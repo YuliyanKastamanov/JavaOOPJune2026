@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/L07_ExceptionHandlingReflection/ExampleOfReflection/ExampleOfReflection.iml" filepath="$PROJECT_DIR$/L07_ExceptionHandlingReflection/ExampleOfReflection/ExampleOfReflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaOOPJune2026.iml" filepath="$PROJECT_DIR$/JavaOOPJune2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01_DefiningClasses/L01_DefiningClasses.iml" filepath="$PROJECT_DIR$/L01_DefiningClasses/L01_DefiningClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/L02_WorkingWithAbstraction/L02_WorkingWithAbstraction.iml" filepath="$PROJECT_DIR$/L02_WorkingWithAbstraction/L02_WorkingWithAbstraction.iml" />
