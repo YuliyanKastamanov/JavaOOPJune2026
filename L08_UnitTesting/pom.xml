@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>SoftUni</groupId>
-    <artifactId>UnitTesting_Exercises</artifactId>
+    <artifactId>L08_UnitTesting</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
